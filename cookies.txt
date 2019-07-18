@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+atmosphere.realatte.com	TRUE	/	FALSE	1999999999	ec9920ab94650f2701b0c6566521a6f8	4jfha06lbsnerhm9okqhlbcje4
+wadhwagroupprojects.in	TRUE	/	FALSE	1999999999	cstm_ppc_keyword	deleted
+wadhwagroupprojects.in	TRUE	/	FALSE	1999999999	cstm_ppc_channel	deleted
+wadhwagroupprojects.in	TRUE	/	FALSE	1999999999	cstm_ppc_campaign	deleted
+wadhwagroupprojects.in	TRUE	/	FALSE	1999999999	cstm_ppc_placement	deleted
+wadhwagroupprojects.in	TRUE	/	FALSE	1999999999	cstm_ppc_device	deleted
+
